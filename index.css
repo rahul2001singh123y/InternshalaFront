@@ -1,0 +1,75 @@
+img{
+    width:110px;
+    max-height: 100px;
+}
+
+  /* Navigation bar logo image  */
+  .navbar-nav{
+    margin-left: 550px;
+  }
+
+ .container {
+   margin-top: 20px;
+   text-align: center;
+   /* background: lightblue; */
+   border-radius: 10px;
+ }
+
+ .container-fluid h1{
+   text-align: center;
+   margin-top: 8%;
+   margin-bottom: 5%;
+ }
+  
+.size{
+  font-size: 1.5rem;
+} 
+
+ /* #services{
+  display: flex;
+  
+ }
+
+ #services .box {
+  border: 2px solid red;
+  background-color: bisque;
+  margin: 2px 50px;
+}
+
+#services .box img {
+  padding-top: 5px;
+  height: 160px;
+  width: 160px;
+  margin: auto;
+  display: block;
+} */
+
+  img{
+    padding-top: 5px;
+    height: 180px;
+    width: 180px;
+    margin: auto;
+    display: block;
+  }
+
+.h-primary{
+  text-align: center;
+  justify-items: center;
+}
+footer{
+  color: white;
+}
+footer a{
+  color: #fff;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Resopsive */
+#services .box{
+  padding: 14px;
+  margin: 2px 0px;
+  margin-bottom: 20px;
+  }
